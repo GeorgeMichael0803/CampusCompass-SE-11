@@ -10,9 +10,7 @@ function seeAllTutors() {
     window.location.href = 'allTutors/all-tutors.html';
 }
 
-// function seeAvailableTutors() {
-//     window.location.href = '/available-tutors.html';
-// }
+
 
 function scheduleSession() {
     window.location.href = 'scheduleSessions/schedule-session.html';
