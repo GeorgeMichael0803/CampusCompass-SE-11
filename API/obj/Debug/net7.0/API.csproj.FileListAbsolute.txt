@@ -1,0 +1,209 @@
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\appsettings.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.exe
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.deps.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.pdb
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.pdb
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\ref\API.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\appsettings.Development.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\appsettings.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.exe
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.deps.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.runtimeconfig.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\API.pdb
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Azure.Core.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Azure.Identity.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Humanizer.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.sourcelink.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets.build.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets.development.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.csproj.CopyComplete
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\refint\API.dll
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.pdb
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+D:\COLLEGE\_College\Sem 5\Prog\Projects_Prog\Assignments\Gaku Vault\API\obj\Debug\net7.0\ref\API.dll
