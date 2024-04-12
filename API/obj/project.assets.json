@@ -3636,11 +3636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\_College\\Projects\\Gaku Vault\\API\\API.csproj",
+      "projectUniqueName": "C:\\_College\\Sem 6\\SE\\CampusCompass\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\_College\\Projects\\Gaku Vault\\API\\API.csproj",
+      "projectPath": "C:\\_College\\Sem 6\\SE\\CampusCompass\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "c:\\_College\\Projects\\Gaku Vault\\API\\obj\\",
+      "outputPath": "C:\\_College\\Sem 6\\SE\\CampusCompass\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

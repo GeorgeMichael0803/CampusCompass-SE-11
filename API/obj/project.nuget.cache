@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPMl49IS9V+wm4SSSZ7S4cOQTvMpuWrus/pBkaRIMi8RS6wvUYAIqOfwrMmUY1thqFPHdbeczOMbAsToaXEmtQ==",
+  "dgSpecHash": "9QsiBMwNcaKGBvDKLl021YKgUdpRZ1ck0Jzt3QVu3lur3PWwd5N0R9Q8T5jmKsDEvO9sb2mfOJNj3MBk8kiQ0Q==",
   "success": true,
-  "projectFilePath": "c:\\_College\\Projects\\Gaku Vault\\API\\API.csproj",
+  "projectFilePath": "C:\\_College\\Sem 6\\SE\\CampusCompass\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
